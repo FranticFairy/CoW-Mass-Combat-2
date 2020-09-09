@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "mods/MassCombat2/images/building/" />
+	<atlas linearFilter="false">
+		<!-- factory -->
+		<image file="factory.png" />
+		<image file="factory+mask.png" />
+		<image file="factory+neutral.png" />
+		
+		<!-- station -->
+		<image file="station.png" />
+		<image file="station+mask.png" />
+		<image file="station+neutral.png" />
+		
+		<!-- factory -->
+		<image file="harbour.png" />
+		<image file="harbour+mask.png" />
+		<image file="harbour+neutral.png" />			
+		
+		<!-- tower -->
+		<image file="tower.png" />
+		<image file="tower+mask.png" />
+		<image file="tower+neutral.png" />
+		
+		<!-- town -->
+		<image file="town.png" />
+		<image file="town+mask.png" />
+		<image file="town+neutral.png" />
+		
+		<!-- airport -->
+		<image file="airport.png" />
+		<image file="airport+mask.png" />
+		<image file="airport+neutral.png" />
+		
+		<!-- labor -->
+		<image file="labor.png" />
+		<image file="labor+mask.png" />
+		<image file="labor+neutral.png" />
+		
+		<!-- hq -->
+		<image file="hq.png" />
+		<image file="hq+mask.png" />
+		<image file="hq+neutral.png" />
+		
+		<!-- oilrig -->
+		<image file="oilrig.png" />
+		<image file="oilrig+mask.png" />
+		<image file="oilrig+neutral.png" />
+		
+		<!-- gate -->
+		<image file="gate+e+w.png" />
+		<image file="gate+e+w+mask.png" />
+		<image file="gate+n+s.png" />
+		<image file="gate+n+s+mask.png" />
+		
+		<!-- radar -->
+		<image file="radar.png" />
+		<image file="radar+mask.png" />
+		<image file="radar+neutral.png" />
+		
+		<!-- pipestation -->
+		<image file="pipestation.png" />
+		<image file="pipestation+mask.png" />
+		<image file="pipestation+neutral.png" />
+		
+		<!-- mine -->
+		<image file="mine.png" />
+		<image file="mine+mask.png" />
+		<image file="mine+neutral.png" />
+
+		<!-- temporary airport -->
+		<image file="temporary_airport.png" />
+		<image file="temporary_airport+mask.png" />
+		<image file="temporary_airport+neutral.png" />
+		
+		<!-- temporary harbour -->
+		<image file="temporary_harbour.png" />
+		<image file="temporary_harbour+mask.png" />
+		<image file="temporary_harbour+neutral.png" />
+		
+		<!-- buildsite -->
+		<image file="buildsite.png" />
+		<image file="buildsite+mask.png" />
+		<image file="buildsite+neutral.png" />
+		
+		<!-- other -->
+		<image file="silo.png" />
+		<image file="silo+rocket.png" />
+		<image file="trench.png" />
+		<image file="trench+mask.png" />
+		<image file="trench+neutral.png" />
+		
+		<image file="tanktraps.png" />
+		<image file="tanktraps+mask.png" />
+		<image file="tanktraps+neutral.png" />
+		
+		<image file="tankditch.png" />
+		<image file="tankditch+mask.png" />
+		
+		<!-- Block Hole Stuff -->
+		<image file="black_cannon+E.png" cols = "2" />
+		<image file="black_cannon+E+mask.png" cols = "2" />
+		<image file="black_cannon+S.png" cols = "2" />
+		<image file="black_cannon+S+mask.png" cols = "2" />
+		<image file="black_cannon+N.png" cols = "2" />
+		<image file="black_cannon+N+mask.png" cols = "2" />
+		<image file="black_cannon+W.png" cols = "2" />
+		<image file="black_cannon+W+mask.png" cols = "2" />
+		<image file="crystall.png" />
+		<image file="crystall+mask.png" />
+		<image file="laser.png" cols = "2" />
+		<image file="laser+mask.png" cols = "2" />
+		<image file="deathray+E.png" cols = "2" />
+		<image file="deathray+E+mask.png" cols = "2" />
+		<image file="deathray+S.png" cols = "2" />
+		<image file="deathray+S+mask.png" cols = "2" />
+		<image file="deathray+N.png" cols = "2" />
+		<image file="deathray+N+mask.png" cols = "2" />
+		<image file="deathray+W.png" cols = "2" />
+		<image file="deathray+W+mask.png" cols = "2" />
+		<image file="fortress.png" cols = "2" />
+		<image file="fortress+mask.png" cols = "2" />
+		<image file="fortress+neutral.png" />		
+		<image file="minicannon+E.png" />
+		<image file="minicannon+E+mask.png" />
+		<image file="minicannon+S.png" />
+		<image file="minicannon+S+mask.png" />
+		<image file="minicannon+W.png" />
+		<image file="minicannon+W+mask.png" />
+		<image file="minicannon+N.png" />
+		<image file="minicannon+N+mask.png" />		
+		<image file="monolith.png" cols = "2" />
+		<image file="monolith+mask.png" cols = "2" />
+		<image file="omega+base.png" cols = "2" />
+		<image file="omega+base+mask.png" cols = "2" />
+		<image file="omega+base+neutral.png" />	
+		<image file="blackhole+factory.png" cols = "2" />
+		<image file="blackhole+factory+mask.png" cols = "2" />		
+		<image file="blackhole+factory+neutral.png" />
+		<image file="volcan.png" />
+		<image file="black_building_destroyed.png" />		
+		<image file="talon+gun.png" cols = "2" />		
+		<image file="talon+gun+mask.png" cols = "2" />		
+		<image file="talon+gun+destroyed.png" cols = "2" />		
+
+		
+	</atlas>
+</resources>

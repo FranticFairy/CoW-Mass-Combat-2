@@ -1,0 +1,11 @@
+GameEnums.UnitType_Train = 101;
+GameEnums.UnitType_Ekranoplan = 102;
+GameEnums.UnitType_Tank = 103;
+GameEnums.UnitType_Support = 104;
+GameEnums.UnitType_Helicopter = 105;
+GameEnums.UnitType_Super = 106;
+GameEnums.UnitType_Vanilla_Ground = 200;
+GameEnums.UnitType_Vanilla_Naval = 201;
+GameEnums.UnitType_Vanilla_Air = 202;
+GameEnums.UnitType_Vanilla_Infantry = 203;
+GameEnums.UnitType_Vanilla_Hovercraft = 204;

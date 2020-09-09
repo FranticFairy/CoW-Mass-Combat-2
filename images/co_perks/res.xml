@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "mods/MassCombat2/images/co_perks/" />
+	<atlas linearFilter="false">
+		<!-- battle sprite -->
+		<image file="apcboost.png" />
+		<image file="apcguard.png" />
+		<image file="brawler.png" />
+		<image file="combatpay.png" />
+		
+		<image file="dive.png" />
+		<image file="eagleeye.png" />
+		<image file="goldrush.png" />
+		<image file="hachisoul.png" />
+		<image file="highanddry.png" />
+		<image file="icebreaker.png" />
+		<image file="invader.png" />
+		<image file="luck.png" />
+		<image file="mechanic.png" />
+		<image file="mistwalker.png" />
+		<image file="mountaineer.png" />
+		<image file="prairiedog.png" />
+		<image file="ranger.png" />
+		<image file="roadrage.png" />
+		<image file="saleprice.png" />
+		<image file="sandscorpion.png" />
+		<image file="seamanship.png" />
+		<image file="sharpshooter.png" />
+		<image file="slamguard.png" />
+		<image file="sneaky.png" />
+		<image file="snipeguard.png" />
+		<image file="towerpower.png" />		
+		<image file="co0.png" />
+		<image file="starpower.png" />
+		<image file="ration.png" />		
+		
+		<image file="RATReg.png" />		
+		<image file="RDFReg.png" />		
+		<image file="ATKReg.png" />		
+		<image file="DEFReg.png" />		
+		<image file="LUKReg.png" />		
+		<image file="COSTReg.png" />		
+		<image file="RATSuper.png" />		
+		<image file="RDFSuper.png" />		
+		<image file="ATKSuper.png" />		
+		<image file="DEFSuper.png" />		
+		<image file="LUKSuper.png" />		
+		<image file="COSTSuper.png" />	
+		
+		<image file="LANDATK.png" />		
+		<image file="LANDDEF.png" />	
+		
+		<image file="SEAMOVE.png" />		
+		<image file="SEAATK.png" />		
+		<image file="SEADEF.png" />	
+		
+		<image file="IFVMOVE.png" />		
+		<image file="IFVATK.png" />		
+		<image file="IFVDEF.png" />	
+		
+		<image file="TANKMOVE.png" />		
+		<image file="TANKATK.png" />		
+		<image file="TANKDEF.png" />	
+		
+		<image file="AIRMOVE.png" />		
+		<image file="AIRATK.png" />		
+		<image file="AIRDEF.png" />	
+		
+		<image file="GEVMOVE.png" />		
+		<image file="GEVATK.png" />		
+		<image file="GEVDEF.png" />	
+		
+		<image file="SUPPMOVE.png" />		
+		<image file="SUPPATK.png" />		
+		<image file="SUPPDEF.png" />	
+		
+		<image file="HELIMOVE.png" />		
+		<image file="HELIATK.png" />		
+		<image file="HELIDEF.png" />	
+		
+		<image file="TRANSMOVE.png" />		
+		<image file="TRANSDEF.png" />	
+		
+		<image file="STARUP.png" />	
+		<image file="INCOMEREG.png" />	
+		<image file="CAP1.png" />	
+		<image file="CAP2.png" />	
+		
+		<image file="WEATHERSUN.png" />		
+		<image file="WEATHERSAND.png" />		
+		<image file="WEATHERSNOW.png" />		
+		<image file="WEATHERRAIN.png" />	
+		
+		<image file="MTNMOV.png" />		
+		<image file="MTNATK.png" />			
+		
+		<image file="FORESTMOV.png" />		
+		<image file="FORESTATK.png" />		
+		
+		<image file="URBANATK.png" />		
+		<image file="ROADATK.png" />
+		
+		<image file="TRENCHGUNS.png" />		
+		<image file="ATGUNS.png" />		
+	</atlas>
+</resources>
+
